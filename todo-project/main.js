@@ -28,4 +28,4 @@ if(removeIndex >= 0 ) {
 
 
 
-console.log(student);
+
