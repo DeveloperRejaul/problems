@@ -3,10 +3,10 @@ const n = +process.argv[2]
 // way 01
 console.time()
 const star = new Array(n).fill(' ');
-for (let index = 0; index < (n+1) ; index++) {
-    console.log(star.join(""));
+for (let index = 0; index < n; index++) {
     star[n-index] = "*"
     star[n+index] = "*"
+    console.log(star.join(""));
 }
 console.timeEnd()
 
