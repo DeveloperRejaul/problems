@@ -1,11 +1,11 @@
-# Project-Based Problem Solving in Different Programming Languages
+# 🚀 Project-Based Problem Solving in Different Programming Languages
 
-This document provides guidance on solving programming problems using various languages, with detailed instructions for setting up environments and running code. Additionally, it includes links to project-specific solutions like the ToDo project, demonstrating practical implementation in multiple languages.
+This document provides instructions to set up and run code for various programming languages and includes project-based examples to solve common problems. Follow the steps for each language below:
 
 ---
 
-## Table of Contents
-### Languages
+## 📜 Table of Contents
+### 📚 Languages
 - [C](#c)
 - [C++](#c-1)
 - [Rust](#rust)
@@ -17,12 +17,12 @@ This document provides guidance on solving programming problems using various la
 - [Solidity](#solidity)
 - [Swift](#swift)
 
-### Projects
-- [ToDo Project](#todo-project)
+### 🛠️ Projects
+- [ToDo Project](#✅-todo-project)
 
 ---
 
-## 1. **C**
+## 1. **C** 🖥️
 ### Setup:
 1. Install a C compiler, such as GCC:
    - On Linux: `sudo apt install gcc`
@@ -38,7 +38,7 @@ gcc program.c -o program
 
 ---
 
-## 2. **C++**
+## 2. **C++** 🖥️
 ### Setup:
 1. Install a C++ compiler, such as G++:
    - On Linux: `sudo apt install g++`
@@ -54,7 +54,7 @@ g++ program.cpp -o program
 
 ---
 
-## 3. **Rust**
+## 3. **Rust** 🦀
 ### Setup:
 1. Install Rust:
    - Run: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
@@ -69,7 +69,7 @@ rustc program.rs
 
 ---
 
-## 4. **Dart**
+## 4. **Dart** 🎯
 ### Setup:
 1. Install Dart:
    - On Linux/macOS: `brew install dart`
@@ -83,7 +83,7 @@ dart run program.dart
 
 ---
 
-## 5. **Java**
+## 5. **Java** ☕
 ### Setup:
 1. Install Java Development Kit (JDK):
    - On Linux: `sudo apt install default-jdk`
@@ -99,7 +99,7 @@ java Program
 
 ---
 
-## 6. **JavaScript**
+## 6. **JavaScript** 💻
 ### Setup:
 1. Install Node.js:
    - On Linux/macOS: `sudo apt install nodejs`
@@ -113,7 +113,7 @@ node program.js
 
 ---
 
-## 7. **Kotlin**
+## 7. **Kotlin** 🛡️
 ### Setup:
 1. Install Kotlin:
    - On Linux/macOS: `brew install kotlin`
@@ -128,7 +128,7 @@ java -jar program.jar
 
 ---
 
-## 8. **Python**
+## 8. **Python** 🐍
 ### Setup:
 1. Install Python:
    - On Linux/macOS: `sudo apt install python3`
@@ -142,7 +142,7 @@ python3 program.py
 
 ---
 
-## 9. **Solidity**
+## 9. **Solidity** 📜
 ### Setup:
 1. Install Solidity Compiler:
    - On Linux/macOS: `brew install solidity`
@@ -154,7 +154,7 @@ Use Remix IDE to compile and deploy the contract, or use tools like Truffle or H
 
 ---
 
-## 10. **Swift**
+## 10. **Swift** 🍎
 ### Setup:
 1. Install Swift:
    - On Linux: Follow [Swift.org instructions](https://swift.org/getting-started/).
@@ -169,14 +169,12 @@ swift program.swift
 
 ---
 
-## Projects
+## 🛠️ Projects
 
-### ToDo Project
+### ✅ ToDo Project
 A simple ToDo project with examples in various languages will be added here. Stay tuned!
 
 ---
 
 Each language requires its specific environment to be set up. Ensure that you follow the instructions relevant to your operating system for successful code execution.
-
-
 
