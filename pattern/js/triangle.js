@@ -11,9 +11,10 @@ for (let index = 0; index < n; index++) {
 console.timeEnd()
 
 // way 02
-// console.time()
-// for (let i = 0; i < n; i++) {
-//     const str = " ".repeat(n-i) + "*".repeat(i*2+1) + " ".repeat(n-i)
-//     console.log(str);
-// }
-// console.timeEnd()
+console.time()
+for (let i = 0; i < n; i++) {
+    const str = " ".repeat(n-i) + "*".repeat(i*2+1) + " ".repeat(n-i)
+    console.log(str);
+}
+console.timeEnd()
+
