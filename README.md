@@ -17,8 +17,6 @@ This document provides instructions to set up and run code for various programmi
 - [Solidity](#solidity)
 - [Swift](#swift)
 
-### 🛠️ Projects
-- [ToDo Project](#✅-todo-project)
 
 ---
 
@@ -168,13 +166,3 @@ swift program.swift
 ```
 
 ---
-
-## 🛠️ Projects
-
-### ✅ ToDo Project
-A simple ToDo project with examples in various languages will be added here. Stay tuned!
-
----
-
-Each language requires its specific environment to be set up. Ensure that you follow the instructions relevant to your operating system for successful code execution.
-
